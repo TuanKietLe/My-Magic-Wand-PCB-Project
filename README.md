@@ -11,3 +11,5 @@ For this project, I am designing a custom PCB for a "magic wand" that brings a t
 ## Project Result
 ## Materials Used
 ## Works Cited
+* Crash Course Electronics and PCB design. https://www.udemy.com/course/crash-course-electronics-and-pcb-design/?kw=PCB+crash&src=sac&couponCode=ST20MT111124B
+* 555 Oscillator Works. https://www.electronics-tutorials.ws/waveforms/555_oscillator.html
