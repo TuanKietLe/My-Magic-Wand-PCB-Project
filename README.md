@@ -10,10 +10,10 @@ As an electrial engineering student, being able to understand how **Printed Circ
 For this project, I am designing a custom PCB for a "magic wand" that brings a touch of enchantment through a sequence of blinking LEDs. The goal of the project is to create a compact, handheld wand that lights up in a programmed pattern, simulating a magical effect. Using simple IC digital chips and a series of LEDs, this project will cover essential PCB design principles, including component layout, circuit routing, and power management. The wand will create dazzling light sequences, offering an interactive and visually engaging experience. This project not only combines electronics with creativity but also offers hands-on experience in designing a functional and aesthetic PCB.
 ## Project Result
 ## Materials Used
-* Three AAA battery holder.
-* One TI CD74HC138E: IC DECODER/DEMUX 1X3:8 16DIP.
-* One TI SN74HC393N: IC BINARY COUNTER DL 4BIT 14DIP.
-* One LM 555 : 555 Timer.
+* 1 AAA battery holder.
+* 1 TI CD74HC138E: IC DECODER/DEMUX 1X3:8 16DIP.
+* 1 TI SN74HC393N: IC BINARY COUNTER DL 4BIT 14DIP.
+* 1 LM 555 : 555 Timer.
 * 8 100 Ohm Resistors.
 * 2 100K Potentiometer.
 * 1 Switch.
