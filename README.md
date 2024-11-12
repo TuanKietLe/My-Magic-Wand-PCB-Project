@@ -15,7 +15,7 @@ The 555 timer generates the clock pulses, whose frequency can be adjusted using 
 
 This design emphasizes user interaction, low power consumption, and precise control of LED timing, making the wand visually engaging and customizable.
 ## Materials Used
-* 1 AAA battery holder.
+* 3 AAA battery holder.
 * 1 TI CD74HC138E: IC DECODER/DEMUX 1X3:8 16DIP.
 * 1 TI SN74HC393N: IC BINARY COUNTER DL 4BIT 14DIP.
 * 1 LM 555 : 555 Timer.
